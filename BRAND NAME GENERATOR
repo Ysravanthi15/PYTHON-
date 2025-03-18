@@ -1,0 +1,4 @@
+print("welcome to the party")
+city=input("enter your city\n")
+pett=input("enter your pet name\n")
+print(city+" "+pett)
